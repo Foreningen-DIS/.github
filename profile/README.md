@@ -7,3 +7,6 @@ Här bygger vi upp ett kodbibliotek för våra verktyg som vi erbjuder våra med
 
 Vill du hjälpa till med vårt utvecklingsarbete?
 Det finns många sätt att hjälpa till i en förening. Besök gärna våra webbsidor för att se vad vi har som kan locka dig, både som utvecklare och släktforskare. om du redan är medlem i förenineng är du också välkommen att erbjuda din hjälp i utvecklingsarbetet.  
+
+* Läs mer om [Föreningen DIS](https://www.dis.se/) 
+* Kontaktuppgifter finns på sidan [Kansli](https://www.dis.se/kansli)
